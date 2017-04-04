@@ -2,8 +2,7 @@
 
 # IBM Data Science Experience Desktop Beta #
 
-IBM Data Science Experience Desktop Beta  is for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop.  
-Some of its Beta features include:
+IBM Data Science Experience Desktop Beta was built for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop. Some of its Beta features include:
 * The same Jupyter notebooks you know and love with the building blocks you need for Python, R, and Scala. 
 * Easily access Apache Spark from your desktop so you can create and learn on the go. 
 * Built-in tutorial notebooks to help jump start your learning experience.
