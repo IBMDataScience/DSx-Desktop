@@ -22,43 +22,43 @@
   },
   "notebooks": {
     "Anaconda (Python 2.7)": {
-      "size": "3.87",
-      "date": "05-02-2017, 11:49:16 AM",
-      "readme": "comma separated list of features",
+      "size": "6.52",
+      "date": "05-12-2017, 10:00:00 AM",
+      "readme": "Support Download as html,pdf, ipynb. Support for geopandas",
       "name": "ibm-dsx-ana27",
-      "version": "v1",
+      "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana27.tar.gz",
-      "tarSize": "1747829472"
+      "tarSize": "2484748181"
     },
     "Anaconda (Python 3.5)": {
-      "size": "4.67",
-      "date": "05-02-2017, 11:49:16 AM",
-      "readme": "comma separated list of features",
+      "size": "5.65",
+      "date": "05-12-2017, 10:00:00 AM",
+      "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
       "name": "ibm-dsx-ana35",
-      "version": "v1",
+      "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana35.tar.gz",
-      "tarSize": "1414539142"
+      "tarSize": "1962939651"
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
-      "size": "8.58",
-      "date": "05-02-2017, 11:49:16 AM",
-      "readme": "comma separated list of features",
+      "size": "9.52",
+      "date": "05-12-2017, 10:00:00 AM",
+      "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
       "name": "anaconda_with_spark",
-      "version": "v1",
+      "version": "v3",
       "bytes": "GB",
       "tarName": "anaconda_with_spark.tar.gz",
-      "tarSize": "2292714866"
+      "tarSize": "3383912643"
     }
   },
   "servers": {
     "RStudio with Spark": {
       "size": "2.6",
-      "date": "05-02-2017, 11:49:16 AM",
-      "readme": "comma separated list of features",
+      "date": "05-02-2017, 10:00:00 AM",
+      "readme": "no change",
       "name": "rstudio-server",
-      "version": "v1",
+      "version": "v2",
       "bytes": "GB",
       "tarName": "rstudio-server.tar.gz",
       "tarSize": "1132551046"
