@@ -1,0 +1,67 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/snehag28/test_updater/releases/download/1.1.4/ibm-dsx-desktop-1.1.4-x86_64.AppImage",
+    "version": "1.1.4",
+    "platform": "linux",
+    "readme": "Fourth version ->  has auto-updater and tar downloads",
+    "size": "69.5 MB"
+  },
+  "win32-x64-prod": {
+    "update": "https://github.com/snehag28/test_updater/raw/master/releases/",
+    "version": "1.1.3",
+    "platform": "win32",
+    "readme": "Second version",
+    "size": "69.3 MB"
+  },
+  "darwin-x64-prod": {
+    "readme": "Second Release",
+    "update": "https://github.com/snehag28/test_updater/releases/download/1.1.3/release.json",
+    "install": "https://github.com/snehag28/test_updater/releases/download/1.1.3/IBM_DSX_Desktop-1.1.3.dmg",
+    "version": "1.1.3",
+    "size": "60 MB"
+  },
+  "notebooks": {
+    "Anaconda (Python 2.7)": {
+      "size": "3.87",
+      "date": "05-02-2017, 11:49:16 AM",
+      "readme": "comma separated list of features",
+      "name": "ibm-dsx-ana27",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "ibm-dsx-ana27.tar.gz",
+      "tarSize": "1747829472"
+    },
+    "Anaconda (Python 3.5)": {
+      "size": "4.67",
+      "date": "05-02-2017, 11:49:16 AM",
+      "readme": "comma separated list of features",
+      "name": "ibm-dsx-ana35",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "ibm-dsx-ana35.tar.gz",
+      "tarSize": "1414539142"
+    },
+    "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
+      "size": "8.58",
+      "date": "05-02-2017, 11:49:16 AM",
+      "readme": "comma separated list of features",
+      "name": "anaconda_with_spark",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "anaconda_with_spark.tar.gz",
+      "tarSize": "2292714866"
+    }
+  },
+  "servers": {
+    "RStudio with Spark": {
+      "size": "2.6",
+      "date": "05-02-2017, 11:49:16 AM",
+      "readme": "comma separated list of features",
+      "name": "rstudio-server",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "rstudio-server.tar.gz",
+      "tarSize": "1132551046"
+    }
+  }
+}
