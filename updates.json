@@ -29,7 +29,7 @@
       "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana27.tar.gz",
-      "tarSize": "2484748181"
+      "tarSize": "1698295381"
     },
     "Anaconda (Python 3.5)": {
       "size": "5.65",
@@ -39,7 +39,7 @@
       "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana35.tar.gz",
-      "tarSize": "1962939651"
+      "tarSize": "1737222694"
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
       "size": "9.52",
@@ -49,7 +49,7 @@
       "version": "v3",
       "bytes": "GB",
       "tarName": "anaconda_with_spark.tar.gz",
-      "tarSize": "3383912643"
+      "tarSize": "3084993348"
     }
   },
   "servers": {
@@ -61,7 +61,7 @@
       "version": "v2",
       "bytes": "GB",
       "tarName": "rstudio-server.tar.gz",
-      "tarSize": "1132551046"
+      "tarSize": "913247879"
     }
   }
 }
