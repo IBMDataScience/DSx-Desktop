@@ -63,5 +63,9 @@
       "tarName": "rstudio-server.tar.gz",
       "tarSize": "913247879"
     }
+  },
+  "docker": {
+    "mac_size": "118154629",
+    "windows_size": "214698696"
   }
 }
