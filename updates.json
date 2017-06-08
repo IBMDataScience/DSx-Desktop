@@ -1,23 +1,23 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.4/ibm-dsx-desktop.AppImage",
-    "version": "1.1.4",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/ibm-dsx-desktop.AppImage",
+    "version": "1.1.5",
     "platform": "linux",
-    "readme": "Fourth version: auto-updater and tar downloads",
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
     "size": "68.7 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "platform": "win32",
-    "readme": "Fourth version: auto-updater and tar downloads",
-    "size": "69.3 MB"
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
+    "size": "68.7 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Fourth version: auto-updater and tar downloads",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.4/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.4/IBM_DSX_Desktop-1.1.4.dmg",
-    "version": "1.1.4",
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/IBM_DSX_Desktop-1.1.5.dmg",
+    "version": "1.1.5",
     "size": "70.8 MB"
   },
   "notebooks": {
@@ -69,3 +69,4 @@
     "windows_size": "214698696"
   }
 }
+
