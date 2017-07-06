@@ -1,24 +1,24 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/ibm-dsx-desktop.AppImage",
-    "version": "1.1.6",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/ibm-dsx-desktop.AppImage",
+    "version": "1.1.5",
     "platform": "linux",
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "size": "69.4 MB"
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
+    "size": "68.7 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.1.6",
+    "version": "1.1.5",
     "platform": "win32",
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "size": "68.6 MB"
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
+    "size": "68.7 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
-    "version": "1.1.6",
-    "size": "63.4 MB"
+    "readme": "Fifth version: enhanced updater, bug fixes, drag and drop asset files",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/IBM_DSX_Desktop-1.1.5.dmg",
+    "version": "1.1.5",
+    "size": "70.8 MB"
   },
   "notebooks": {
     "Anaconda (Python 2.7)": {
