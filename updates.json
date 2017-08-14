@@ -64,6 +64,18 @@
       "tarSize": "913247879"
     }
   },
+  "zeppelin": {
+    "Zeppelin Notebook": {
+      "size": "5.52",
+      "date": "07-13-2017, 10:00:00 AM",
+      "readme": "First version",
+      "name": "zeppelin",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "zeppelin.tar.gz",
+      "tarSize": "2186188943"
+    }
+  },
   "docker": {
     "mac_size": "118407105",
     "windows_size": "214698696"
