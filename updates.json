@@ -114,7 +114,7 @@
         "tarName": "ibm-dsx-ana35.tar.gz",
         "tarSize": "1747361175"
       },
-      "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
+      "Anaconda + Spark (Python 2.7, Scala, R)": {
         "size": "5.7",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
