@@ -1,24 +1,24 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/ibm-dsx-desktop.AppImage",
-    "version": "1.1.6",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/ibm-dsx-developer-edition.AppImage",
+    "version": "1.1.7",
     "platform": "linux",
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "size": "69.4 MB"
+    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
+    "size": "71.6 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "platform": "win32",
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "size": "68.6 MB"
+    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
+    "size": "72.4 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
-    "version": "1.1.6",
-    "size": "63.4 MB"
+    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
+    "version": "1.1.7",
+    "size": "73.6 MB"
   },
   "notebooks": {
     "Anaconda (Python 2.7)": {
