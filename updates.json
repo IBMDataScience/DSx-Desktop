@@ -1,23 +1,23 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/ibm-dsx-developer-edition.AppImage",
-    "version": "1.1.7",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/ibm-dsx-desktop.AppImage",
+    "version": "1.2.0",
     "platform": "linux",
-    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
-    "size": "71.6 MB"
+    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes",
+    "size": "72.4 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.1.7",
+    "version": "1.2.0",
     "platform": "win32",
-    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
+    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes",
     "size": "72.4 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
-    "version": "1.1.7",
+    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes ",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/IBM_DSX_Desktop-1.2.0.dmg",
+    "version": "1.2.0",
     "size": "73.6 MB"
   },
   "notebooks": {
@@ -95,7 +95,7 @@
   "DockerImages": {
     "notebooks": {
       "Anaconda (Python 2.7)": {
-        "size": "4.74",
+        "size": "1.39",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Support Download as html,pdf, ipynb. Support for geopandas",
         "name": "ibm-dsx-ana27",
@@ -105,7 +105,7 @@
         "tarSize": "1708488895"
       },
       "Anaconda (Python 3.5)": {
-        "size": "4.74",
+        "size": "2.20",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
         "name": "ibm-dsx-ana35",
@@ -115,7 +115,7 @@
         "tarSize": "1747361175"
       },
       "Anaconda + Spark (Python 2.7, Scala, R)": {
-        "size": "5.7",
+        "size": "3.0",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
         "name": "anaconda_with_spark",
@@ -127,7 +127,7 @@
     },
     "servers": {
       "RStudio with Spark": {
-        "size": "2.6",
+        "size": "1.0",
         "date": "05-02-2017, 10:00:00 AM",
         "readme": "no change",
         "name": "rstudio-server",
@@ -139,7 +139,7 @@
     },
     "zeppelin": {
       "Zeppelin Notebook": {
-        "size": "6.43",
+        "size": "3.5",
         "date": "07-13-2017, 10:00:00 AM",
         "readme": "First version",
         "name": "zeppelin",
@@ -151,7 +151,7 @@
     },
     "dsx-core": {
       "DSX Desktop": {
-        "size": "0.6",
+        "size": "0.7",
         "date": "09-24-2017, 08:00:00 PM",
         "readme": "First version",
         "name": "dsx-desktop",
