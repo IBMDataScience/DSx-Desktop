@@ -149,6 +149,18 @@
         "tarSize": "2442499633"
       }
     },
+    "spss": {
+      "SPSS Modeler": {
+        "size": "5.35",
+        "date": "07-13-2017, 10:00:00 AM",
+        "readme": "First version",
+        "name": "spssmodeler",
+        "version": "v1",
+        "bytes": "GB",
+        "tarName": "spssmodeler.tar.gz",
+        "tarSize": "5352499633"
+      }
+    },
     "dsx-core": {
       "DSX Desktop": {
         "size": "0.7",
