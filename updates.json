@@ -1,91 +1,91 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/ibm-dsx-desktop.AppImage",
-    "version": "1.2.0",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.2/ibm-dsx-desktop.AppImage",
+    "version": "1.2.2",
     "platform": "linux",
-    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes",
+    "readme": "Various bug fixes.",
     "size": "72.4 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.2.0",
+    "version": "1.2.2",
     "platform": "win32",
-    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes",
-    "size": "72.4 MB"
+    "readme": "Various bug fixes.",
+    "size": "73.9 MB"
   },
   "darwin-x64-prod": {
-    "readme": "UI upgrade: New Landing Page and Hierarchical (tree) View. Minor Bug Fixes ",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/IBM_DSX_Desktop-1.2.0.dmg",
-    "version": "1.2.0",
-    "size": "73.6 MB"
+    "readme": "Various bug fixes.",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.2/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.2/IBM_DSX_Desktop-1.2.2.dmg",
+    "version": "1.2.2",
+    "size": "64.1 MB"
   },
   "notebooks": {
     "Anaconda (Python 2.7)": {
-      "size": "6.52",
-      "date": "05-12-2017, 10:00:00 AM",
-      "readme": "Support Download as html,pdf, ipynb. Support for geopandas",
+      "size": "1.4",
+      "date": "02-20-2018, 06:00:00 PM",
+      "readme": "Fixed a bug with running Brunel notebooks.",
       "name": "ibm-dsx-ana27",
       "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana27.tar.gz",
-      "tarSize": "1708488895"
+      "tarSize": "1303984789"
     },
     "Anaconda (Python 3.5)": {
-      "size": "5.65",
+      "size": "2.2",
       "date": "05-12-2017, 10:00:00 AM",
       "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
       "name": "ibm-dsx-ana35",
       "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana35.tar.gz",
-      "tarSize": "1747361175"
+      "tarSize": "2093696543"
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
-      "size": "9.52",
-      "date": "05-12-2017, 10:00:00 AM",
-      "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
+      "size": "3.0",
+      "date": "02-20-2018, 06:00:00 PM",
+      "readme": "Fixed a bug with running Brunel notebooks.",
       "name": "anaconda_with_spark",
       "version": "v3",
       "bytes": "GB",
       "tarName": "anaconda_with_spark.tar.gz",
-      "tarSize": "3084993348"
+      "tarSize": "2860840128"
     }
   },
   "servers": {
     "RStudio with Spark": {
-      "size": "2.6",
+      "size": "1.0",
       "date": "05-02-2017, 10:00:00 AM",
       "readme": "no change",
       "name": "rstudio-server",
       "version": "v2",
       "bytes": "GB",
       "tarName": "rstudio-server.tar.gz",
-      "tarSize": "913247879"
+      "tarSize": "953823439"
     }
   },
   "zeppelin": {
     "Zeppelin Notebook": {
-      "size": "5.52",
+      "size": "3.5",
       "date": "07-13-2017, 10:00:00 AM",
       "readme": "First version",
       "name": "zeppelin",
       "version": "v1",
       "bytes": "GB",
       "tarName": "zeppelin.tar.gz",
-      "tarSize": "2442499633"
+      "tarSize": "3386934916"
     }
   },
   "dsx-core": {
     "DSX Desktop": {
-      "size": "0.6",
-      "date": "09-24-2017, 08:00:00 PM",
-      "readme": "First version",
+      "size": "0.4",
+      "date": "02-20-2018, 06:00:00 PM",
+      "readme": "Fixed bug with deleting assets. Updated UI.",
       "name": "dsx-desktop",
       "version": "v1",
       "bytes": "GB",
       "tarName": "dsx-core-ux.tar.gz",
-      "tarSize": "168086966"
+      "tarSize": "326264975"
     }
   },
   "docker": {
@@ -95,34 +95,34 @@
   "DockerImages": {
     "notebooks": {
       "Anaconda (Python 2.7)": {
-        "size": "1.39",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support Download as html,pdf, ipynb. Support for geopandas",
+        "size": "1.4",
+        "date": "02-20-2018, 06:00:00 PM",
+        "readme": "Fixed a bug with running Brunel notebooks.",
         "name": "ibm-dsx-ana27",
         "version": "v3",
         "bytes": "GB",
         "tarName": "ibm-dsx-ana27.tar.gz",
-        "tarSize": "1708488895"
+        "tarSize": "1303984789"
       },
       "Anaconda (Python 3.5)": {
-        "size": "2.20",
+        "size": "2.2",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
         "name": "ibm-dsx-ana35",
         "version": "v3",
         "bytes": "GB",
         "tarName": "ibm-dsx-ana35.tar.gz",
-        "tarSize": "1747361175"
+        "tarSize": "2093696543"
       },
       "Anaconda + Spark (Python 2.7, Scala, R)": {
         "size": "3.0",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
+        "date": "02-20-2018, 06:00:00 PM",
+        "readme": "Fixed a bug with running Brunel notebooks.",
         "name": "anaconda_with_spark",
         "version": "v3",
         "bytes": "GB",
         "tarName": "anaconda_with_spark.tar.gz",
-        "tarSize": "3084993348"
+        "tarSize": "2860840128"
       }
     },
     "servers": {
@@ -134,7 +134,7 @@
         "version": "v2",
         "bytes": "GB",
         "tarName": "rstudio-server.tar.gz",
-        "tarSize": "913247879"
+        "tarSize": "953823439"
       }
     },
     "zeppelin": {
@@ -146,12 +146,12 @@
         "version": "v1",
         "bytes": "GB",
         "tarName": "zeppelin.tar.gz",
-        "tarSize": "2442499633"
+        "tarSize": "3386934916"
       }
     },
     "spss": {
       "SPSS Modeler": {
-        "size": "5.35",
+        "size": "5.4",
         "date": "07-13-2017, 10:00:00 AM",
         "readme": "First version",
         "name": "spssmodeler",
@@ -163,14 +163,14 @@
     },
     "dsx-core": {
       "DSX Desktop": {
-        "size": "0.7",
-        "date": "09-24-2017, 08:00:00 PM",
-        "readme": "First version",
+        "size": "0.4",
+        "date": "02-20-2018, 06:00:00 PM",
+        "readme": "Fixed bug with deleting assets. Updated UI.",
         "name": "dsx-desktop",
         "version": "v1",
         "bytes": "GB",
         "tarName": "dsx-core-ux.tar.gz",
-        "tarSize": "168086966"
+        "tarSize": "326264975"
       }
     }
   }
