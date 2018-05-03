@@ -1,63 +1,63 @@
 {
   "linux-x64-prod": {
-    "version": "1.2.3",
-    "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/ibm-dsx-desktop.AppImage",
+    "version": "1.2.4",
+    "readme": "Better handling of network drops. Added opt-in option for sending usage info. Various bug fixes and UI improvements.",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/ibm-dsx-desktop.AppImage",
     "platform": "linux",
-    "bytes": "71600000",
-    "size": "71.6 MB"
+    "bytes": "70500000",
+    "size": "70.5 MB"
   },
   "win32-x64-prod": {
-    "version": "1.2.3",
-    "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/",
+    "version": "1.2.4",
+    "readme": "Better handling of network drops. Added opt-in option for sending usage info. Various bug fixes and UI improvements.",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/",
     "platform": "win32",
-    "bytes": "72400000",
-    "size": "72.4 MB"
+    "bytes": "70600000",
+    "size": "70.6 MB"
   },
   "darwin-x64-prod": {
-    "version": "1.2.3",
-    "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/IBM_DSX_Desktop-1.2.3.dmg",
-    "bytes": "73600000",
-    "size": "73.6 MB"
+    "version": "1.2.4",
+    "readme": "Better handling of network drops. Added opt-in option for sending usage info. Various bug fixes and UI improvements.",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/IBM_DSX_Desktop-1.2.4.dmg",
+    "bytes": "64700000",
+    "size": "64.7 MB"
   },
   "imageUpdates": {
     "DSX Desktop": {
       "readme": "New image, same content",
       "id": "sha256:9ac93c600ed2dc8d986aa32dee28d64b9400576b84261be6599493d1310a820c",
-      "bytes": "809914716"
+      "bytes": "290056743"
     },
     "Anaconda (Python 2.7)": {
       "readme": "New image, same content",
       "id": "sha256:30a1ccf7c0a084cb64c432097a74b9f2276ba5b7746ab735ad3358bf2ed2e604",
-      "bytes": "3880869181"
+      "bytes": "1285410257"
     },
     "Anaconda + Spark (Python 2.7, Scala, R)": {
       "readme": "New image, same content",
       "id": "sha256:d6527bffbbeccb842b514a9b3d2e80fdd16cfd4e029e0bd835e631a58bdbec10",
-      "bytes": "6701098581"
+      "bytes": "2850537976"
     },
     "Anaconda (Python 3.5)": {
       "readme": "New image, same content",
       "id": "sha256:10e13945f9cb66685b6eb9ae7bd38e337702acd51de92edb622702fe2e3b7b29",
-      "bytes": "5587966872"
+      "bytes": "2095762232"
     },
     "Anaconda + Spark (Python 3.5, Scala, R)": {
       "readme": "New image, same content",
       "id": "sha256:a7275b16004c0429ab1ff7aaf93fde40046fe9e083d59a7d9a33c51474ca1a31",
-      "bytes": "7290666551"
+      "bytes": "3016401166"
     },
     "RStudio with Spark": {
       "readme": "New image, same content",
       "id": "sha256:01541e54dbc5075e3b506990654a64068e030520867c971623158000e6df8bfe",
-      "bytes": "2322292051"
+      "bytes": "935274185"
     },
     "Zeppelin Notebook": {
       "readme": "New image, same content",
       "id": "sha256:28a5e0346e7af8f5d01a4f9c3475c55bd77c8a24a9880571168324ec49c9d5e4",
-      "bytes": "7585829603"
+      "bytes": "3394101529"
     }
   },
   "notebooks": {
