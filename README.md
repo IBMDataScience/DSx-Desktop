@@ -6,6 +6,7 @@ IBM Data Science Experience Desktop was built for those who want to download and
 * Easily access Apache Spark from your desktop so you can create and learn on the go. 
 * Built-in tutorial notebooks to help jump start your learning experience.
 * Support for RStudio IDE and Zeppelin notebooks, to meet your various needs.
+
 ![Jupyter Notebook](notebook.png)
 
 For more information as well as a download link, see [our website](https://datascience.ibm.com/desktop).  
