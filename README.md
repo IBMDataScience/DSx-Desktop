@@ -1,5 +1,5 @@
 # IBM Data Science Experience Desktop
-IBM Data Science Experience Desktop was built for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop.
+IBM Data Science Experience Desktop was built for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop. Download it [here](https://www.ibm.com/us-en/marketplace/data-science-experience/purchase#purchasing).
 
 ### Features
 * The same Jupyter notebooks you know and love with the building blocks you need for Python, R, and Scala. 
@@ -8,8 +8,6 @@ IBM Data Science Experience Desktop was built for those who want to download and
 * Support for RStudio IDE and Zeppelin notebooks, to meet your various needs.
 
 ![Jupyter Notebook](notebook.png)
-
-For more information as well as a download link, see [our website](https://datascience.ibm.com/desktop).  
 
 ## Documentation
 Documentation for DSX Desktop can be found [here](https://content-dsxdesktop.mybluemix.net/).
