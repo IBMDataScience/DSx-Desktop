@@ -13,7 +13,7 @@ IBM Data Science Experience Desktop was built for those who want to download and
 ![Jupyter Notebook](notebook.png)
 
 ## Documentation
-Documentation for DSX Desktop can be found [here](https://content-dsxdesktop.mybluemix.net/).
+Documentation for DSX Desktop can be found on the [content hub](https://content-dsxdesktop.mybluemix.net/).
 
-## Something wrong?
-Submit an [issue](https://github.com/IBMDataScience/DSx-Desktop/issues/new).
+## Have an Issue?
+Look through the [issues](https://github.com/IBMDataScience/DSx-Desktop/issues) to see if anyone else has the same issue. If not, submit a new one.
