@@ -12,5 +12,5 @@ IBM Data Science Experience Desktop was built for those who want to download and
 ## Documentation
 Documentation for DSX Desktop can be found [here](https://content-dsxdesktop.mybluemix.net/).
 
-## Need help?
-Submit an issue on [GitHub](https://github.com/IBMDataScience/DSx-Desktop/issues) or [StackOverflow](https://stackoverflow.com/questions/tagged/data-science-experience) and we'll try to respond as soon as we can.
+## Something wrong?
+Submit an [issue](https://github.com/IBMDataScience/DSx-Desktop/issues/new).
