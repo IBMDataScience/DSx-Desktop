@@ -1,5 +1,5 @@
 # IBM Data Science Experience Desktop
-**This project is no longer maintained.** If you have a problem, look through the [existing issues](https://github.com/IBMDataScience/DSx-Desktop/issues) to see if it has been resolved before.
+**This project is no longer maintained.** If you have a problem, look through the [existing issues](https://github.com/IBMDataScience/DSx-Desktop/issues?utf8=%E2%9C%93&q=) to see if it has been resolved before.
 
 IBM Data Science Experience Desktop was built for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop.
 * [Download for Mac](https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/IBM_DSX_Desktop-1.2.4.dmg)
