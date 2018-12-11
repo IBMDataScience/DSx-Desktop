@@ -1,4 +1,6 @@
 # IBM Data Science Experience Desktop
+**This project is no longer maintained.** If you have a problem, look through the [existing issues](https://github.com/IBMDataScience/DSx-Desktop/issues) to see if it has been resolved before.
+
 IBM Data Science Experience Desktop was built for those who want to download and play locally. Analyze, learn, and build with the tools you love, right on your desktop.
 * [Download for Mac](https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/IBM_DSX_Desktop-1.2.4.dmg)
 * [Download for Windows](https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.4/IBM_DSX_Desktop-1.2.4.exe)
@@ -14,6 +16,3 @@ IBM Data Science Experience Desktop was built for those who want to download and
 
 ## Documentation
 Documentation for DSX Desktop can be found on the [content hub](https://content-dsxdesktop.mybluemix.net/).
-
-## Have an Issue?
-Look through the [issues](https://github.com/IBMDataScience/DSx-Desktop/issues) to see if anyone else has the same issue. If not, submit a new one.
