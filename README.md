@@ -41,3 +41,16 @@ If you're having problems on the installation screen (after the image selection)
 To test, start Docker, then open a terminal or command prompt and enter `docker pull hello-world`. If that fails, then Docker is unable to pull any images, so the installation cannot complete.
 
 **Note**: Windows 7 and Windows 10 Home users, use the Docker Quickstart Terminal.
+
+### Ensure Shared Drives are Enabled (Windows 10 Enterprise, Pro, Education)
+If you're trying to launch a Notebook or RStudio and DSX Desktop is saying you don't have it installed (even if you do), then it may be that Docker cannot access your files.
+
+To check if you have shared drives enabled, right-click on the Docker tray icon, click settings, then on the "Shared Drives" tab, ensure that your primary drive is checked (usually `C:\`).
+
+You can also test it by opening a command prompt and entering
+```sh
+docker run --rm -it -v c:\Users:/data alpine ls /data
+```
+which should result in a list of the users. If it doesn't, then check to see if you have shared drives enabled.
+
+**Note**: if you're using Microsoft AD, then you will be unable to share your drive with Docker using your account's credentials. Instead, follow [these instructions](https://blogs.msdn.microsoft.com/wael-kdouh/2017/06/26/enabling-drive-sharing-with-docker-for-windows/).
