@@ -25,3 +25,12 @@ DSX Desktop works on all platforms (MacOS, Windows 7, Windows 10, and Linux), bu
 * MacOS and Linux have very few (if any) issues, the majority of them are Windows.
 * Windows 10 Enterprise, Pro, and Education has [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v), which enables Docker to run natively, and is less error-prone.
 * Windows 7 and Windows 10 Home runs Docker inside a VirtualBox VM, which is very error-prone.
+
+### Check if the VM is Running (Windows 7, Windows 10 Home)
+Windows 7 and Windows 10 Home runs Docker inside a VirtualBox VM named **ibm-dsx**. When you start DSX Desktop, it tries to start this VM (sometimes unsuccessfully).
+
+If the VM fails to start after five attempts, **it will be removed and a new one will be created**, resulting in you having to go through the install again.
+
+To get around this, you can attempt to start the VM manually, either through VirtualBox or the command line:
+* **VirtualBox**: open VirtualBox, right-click the ibm-dsx machine, and click Start > Headless Start
+* **Command Line**: open a command prompt and enter `docker-machine start ibm-dsx`
