@@ -53,4 +53,4 @@ docker run --rm -it -v c:\Users:/data alpine ls /data
 ```
 which should result in a list of the users. If it doesn't, then check to see if you have shared drives enabled.
 
-**Note**: if you're using Microsoft AD, then you will be unable to share your drive with Docker using your account's credentials. Instead, follow [these instructions](https://blogs.msdn.microsoft.com/wael-kdouh/2017/06/26/enabling-drive-sharing-with-docker-for-windows/).
+**Note**: if you're using Microsoft AD, then you will be unable to share your drive with Docker using your account's credentials. Instead, follow [these instructions](https://blogs.msdn.microsoft.com/stevelasker/2016/06/14/configuring-docker-for-windows-volumes/).
