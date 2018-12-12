@@ -34,3 +34,10 @@ If the VM fails to start after five attempts, **it will be removed and a new one
 To get around this, you can attempt to start the VM manually, either through VirtualBox or the command line:
 * **VirtualBox**: open VirtualBox, right-click the ibm-dsx machine, and click Start > Headless Start
 * **Command Line**: open a command prompt and enter `docker-machine start ibm-dsx`
+
+### Try Pulling an Image with Docker
+If you're having problems on the installation screen (after the image selection), it may be that Docker is unable to pull the images.
+
+To test, open a terminal or command prompt and enter `docker pull hello-world`. If that succeeds, then Docker _is_ able to pull images and that is not the problem.
+
+**Note**: Windows 7 and Windows 10 Home users, use the Docker Quickstart Terminal.
