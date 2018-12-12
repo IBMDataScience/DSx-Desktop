@@ -38,6 +38,6 @@ To get around this, you can attempt to start the VM manually, either through Vir
 ### Try Pulling an Image with Docker
 If you're having problems on the installation screen (after the image selection), it may be that Docker is unable to pull the images.
 
-To test, open a terminal or command prompt and enter `docker pull hello-world`. If that succeeds, then Docker _is_ able to pull images and that is not the problem.
+To test, start Docker, then open a terminal or command prompt and enter `docker pull hello-world`. If that succeeds, then Docker _is_ able to pull images and that is not the problem.
 
 **Note**: Windows 7 and Windows 10 Home users, use the Docker Quickstart Terminal.
